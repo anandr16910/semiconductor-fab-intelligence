@@ -1,0 +1,1 @@
+An AI-powered semiconductor manufacturing operations platform combining Vertex AI anomaly detection, BigQuery historical process analysis, Gemini-based diagnosis, and a Streamlit dashboard deployed on Cloud Run.

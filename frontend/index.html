@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AISemiCon 2026 | AI Semiconductor Dashboard & Gemini Copilot</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              dark: '#070B14',
+              surface: '#0F172A',
+              card: '#131E36',
+              cyan: '#06B6D4',
+              neon: '#38BDF8',
+              accent: '#8B5CF6',
+              amber: '#F59E0B',
+              emerald: '#10B981',
+              rose: '#F43F5E'
+            }
+          },
+          fontFamily: {
+            mono: ['JetBrains Mono', 'ui-monospace', 'SFMono-Regular', 'Menlo', 'monospace']
+          }
+        }
+      }
+    };
+  </script>
+  </head>
+<body class="bg-[#070B14] text-slate-100 antialiased min-h-screen selection:bg-cyan-500 selection:text-black">
+  <div id="root"></div>
+  <script type="module" src="./index.tsx"></script>
+<script type="module" src="/index.js"></script></body>
+</html>

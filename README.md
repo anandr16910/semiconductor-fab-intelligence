@@ -51,3 +51,9 @@ To install dependencies and run your Google Cloud Vertex AI Studio App locally, 
 
 ```bash
 npm install && npm run dev
+```
+
+## Dashboard link:
+
+[https://genai-app-aisemicon2026-aisemicondu-1-17937922589-555371502170.asia-southeast1.run.app/] 
+

@@ -55,5 +55,5 @@ npm install && npm run dev
 
 ## Dashboard link:
 
-[https://genai-app-aisemicon2026-aisemicondu-1-17937922589-555371502170.asia-southeast1.run.app/] 
+(ai_powered_fab)[https://genai-app-aisemicon2026-aisemicondu-1-17937922589-555371502170.asia-southeast1.run.app/] 
 
